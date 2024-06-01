@@ -1,0 +1,36 @@
+
+
+#admin  {
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+#admin h2{
+    text-align: center;
+    color: rgb(0, 119, 255);
+}
+
+
+#header {
+    background: linear-gradient(to right ,rgb(0, 153, 255),rgb(3, 79, 167));
+    padding: 20px;
+}
+
+
+
+#header button{
+    float:  right;
+
+}
+
+#Mid {
+    text-align: center;
+    color: red;
+}
+
+
+#footer {
+    background: linear-gradient(to right ,rgb(0, 153, 255),rgb(3, 79, 167));
+    padding: 20px;
+}
